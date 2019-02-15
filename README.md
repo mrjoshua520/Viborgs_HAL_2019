@@ -1,7 +1,7 @@
 # Viborgs_HAL_2019
 Dundee Vi-Borgs 2019 code for Destination: Deep Space
 
-=========Driver_Controls=========
+===========Driver_Controls===========
 
 Right Stick Y: Forward/Backward
 
@@ -15,7 +15,7 @@ Left Bumper: Limelight? Hatch Loading Station
 
 =================================
 
-========Operator Controls========
+===========Operator Controls===========
 
 A: Low Hatch Panel (Rocket Ship/Cargo Bay)
 
