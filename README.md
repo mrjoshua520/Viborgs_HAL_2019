@@ -31,7 +31,9 @@ LB * Y: High Cargo
 
 X: Cargo Bay Cargo
 
-Select: Half of Climber Unlock
+Back: Half of Climber Unlock
+
+Start: Unlatch Magnet
 
 =================================
   
