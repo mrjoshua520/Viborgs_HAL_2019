@@ -114,6 +114,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="Cargo Reset.vi" Type="VI" URL="../Cargo Reset.vi"/>
+		<Item Name="Climbing.vi" Type="VI" URL="../Climbing.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="score target tracking.vi" Type="VI" URL="../score target tracking.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
