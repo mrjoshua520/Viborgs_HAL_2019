@@ -11,7 +11,7 @@ Select: Half of the Climber Unlock
 
 Right Bumper: Limelight Ball pick up
 
-Left Bumper: Limelight? Hatch Loading Station
+Left Bumper: Limelight Hatch Loading Station
 
 =================================
 
@@ -29,11 +29,7 @@ LB * B: Middle Cargo
 
 LB * Y: High Cargo
 
-X: Cargo Bay Cargo
-
 Back: Half of Climber Unlock
-
-Start: Unlatch Magnet
 
 =================================
   
