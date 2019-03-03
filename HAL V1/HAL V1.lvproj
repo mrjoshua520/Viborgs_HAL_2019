@@ -116,6 +116,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Cargo Reset.vi" Type="VI" URL="../Cargo Reset.vi"/>
 		<Item Name="Climbing.vi" Type="VI" URL="../Climbing.vi"/>
 		<Item Name="Hatch Intake.vi" Type="VI" URL="../Hatch Intake.vi"/>
+		<Item Name="Limelight Alignment.vi" Type="VI" URL="../Limelight Alignment.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="score target tracking.vi" Type="VI" URL="../score target tracking.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
